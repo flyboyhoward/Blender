@@ -1,9 +1,9 @@
-## Blender
+# Blender
 
 Welcome to my blender repository.
 
-# Future work:  
-
+## Future work:  
+### tutorials:  
 DUCY3D  
 DERRK ELLIOTT  
 PETER FRANCE  
