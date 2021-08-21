@@ -2,7 +2,7 @@
 
 Welcome to my blender repository.
 
-DUCY3D \n
-DERRK ELLIOTT
-PETER FRANCE
-LEGO RENDER
+DUCY3D  
+DERRK ELLIOTT  
+PETER FRANCE  
+LEGO RENDER  
